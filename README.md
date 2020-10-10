@@ -1,2 +1,2 @@
 # MinhaLojaDeGames
-Spring Boot Relacionamento Entre Entity, bando de dados MySQL
+Spring Boot Relacionamento Entre Entity, banco de dados MySQL
